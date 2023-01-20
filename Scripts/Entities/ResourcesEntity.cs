@@ -1,9 +1,4 @@
-using Fungus;
-using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
-
-namespace Entity
+﻿namespace Entity
 {
     public class ResourcesEntity : EntityBase
     {

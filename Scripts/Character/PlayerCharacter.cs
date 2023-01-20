@@ -1,9 +1,6 @@
-using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using Entity;
 using PlayerInputs;
-using Entity;
-using System;
+using UnityEngine;
 
 namespace Character
 {
